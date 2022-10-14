@@ -1,0 +1,15 @@
+CREATE
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/IOfiucoI/BEM.git
+git push -u origin main
+
+PUSH an existing repository from the command line
+git remote add origin https://github.com/IOfiucoI/BEM.git
+git branch -M main
+git push -u origin main
+
+CLONE
+git clone https://github.com/IOfiucoI/BEM.git
